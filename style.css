@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.name {
+  color: white;
+}
+
+.label {
+  color: white;
+}
+
+.score {
+  color: gray;
+}
+
+.card {
+  width: 10%;
+}
+
+.message {
+  color: yellow;
+}
+
+.hidden {
+  display: none;
+}
