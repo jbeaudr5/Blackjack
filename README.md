@@ -12,7 +12,7 @@ First 2 cards are automatically drawn <br/>
 Player can then choose to hit (draw another card) or hold (keep their current score) <br/>
 If the player hits and their score exceeds 21, they lose (bust) <br/>
 Once the player holds, the dealer score will be generated as a number between 17 and 26* <br/>
-If the player holds and their score is greater than the dealer's then the player wins <br/>
+If the player holds and their score is greater than the dealer's then the player wins (a tie goes to the dealer) <br/>
 If the player holds and the dealer's score is over 21 then the player wins <br/>
 
 CARD VALUES
